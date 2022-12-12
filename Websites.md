@@ -1,6 +1,6 @@
 # Websites
 ## Artificial Intelligence
-    - [Supermeme --> Create Memes with ai](https://www.Supermeme.ai/)
+    - This site was built using [Supermeme](https://www.Supermeme.ai/)
     - poised.com --> Improving speaking
     - lalal.ai --> Seperate Audiotracks and Voices
     - copy.ai --> writes you any text
