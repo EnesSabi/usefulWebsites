@@ -1,14 +1,14 @@
 # Websites
 ## Artificial Intelligence
-    [Supermeme --> Create Memes with ai](https://www.Supermeme.ai/)
-    poised.com --> Improving speaking
-    lalal.ai --> Seperate Audiotracks and Voices
-    copy.ai --> writes you any text
-    hunter.ai --> Find any persons E-Mail
-    descript.ai --> Build-in Video and Audio Tools
-    cutout.pro --> Passport sized photos
-    chat.gpt --> does everything for you
-    axiom.ai --> automate everything
+    - [Supermeme --> Create Memes with ai](https://www.Supermeme.ai/)
+    - poised.com --> Improving speaking
+    - lalal.ai --> Seperate Audiotracks and Voices
+    - copy.ai --> writes you any text
+    - hunter.ai --> Find any persons E-Mail
+    - descript.ai --> Build-in Video and Audio Tools
+    - cutout.pro --> Passport sized photos
+    - chat.gpt --> does everything for you
+    - axiom.ai --> automate everything
 ## Learning and useful
     cheatography.com --> Over 5000 Cheatsheets
     edx.org --> Online Courses of universitiy
